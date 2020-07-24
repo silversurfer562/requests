@@ -1,2 +1,2 @@
 # requests
-files used my the requests module
+files used by the requests module
